@@ -4,7 +4,7 @@
 1. Load the csv file in the same directory.
 2. Compile the java file - javac code.java
 3. Run the Java File - java code.java
-
+ 
 ## Details of all the tables and their schema
 Three columns - name, sku and description
 
