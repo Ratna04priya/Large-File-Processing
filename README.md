@@ -9,7 +9,7 @@
 Three columns - name, sku and description
 
 ## Points to achieve
-- [x] Your code should follow concept of OOPS
+- [x] Your code should follow concept of OOPS 
 - [x] Support for regular non-blocking parallel ingestion of the given file into a table. Consider thinking about the scale of what should happen if the file is to be processed in 2 mins.
 - [ ] Support for updating existing products in the table based on `sku` as the primary key. (Yes, we know about the kind of data in the file. You need to find a workaround for it)
 - [x] All product details are to be ingested into a single table
