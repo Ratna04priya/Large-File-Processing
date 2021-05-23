@@ -17,3 +17,4 @@ Three columns - name, sku and description
 
 ## What would you improve if given more days
 Will optimize the possible code.
+
